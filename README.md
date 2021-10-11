@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything related to software development
 - 🌱 I’m currently learning everything i can related to software development
 - 📫 How to reach me :
-  - https://www.youtube.com/channel/UCqY5ZBEZx5EGfKofGJ4JFlg
+  - https://www.youtube.com/c/Dwight-RABENANDRIANA
   - https://sketchfab.com/RNA-Studio
 
 <!---
